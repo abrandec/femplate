@@ -2,8 +2,11 @@
 pragma solidity 0.8.13;
 
 import {Greeter} from "../Greeter.sol";
-
-import "@std/Test.sol";
+// Test Suite
+import {XConsole} from "./utils/Console.sol";
+import {DSTest} from "ds-test/test.sol";
+import "forge-std/Test.sol";
+import {Vm} from "forge-std/Vm.sol";
 
 contract GreeterTest is Test {
     using stdStorage for StdStorage;
