@@ -1,6 +1,5 @@
 # femplate • [![tests](https://github.com/abrandec/femplate/actions/workflows/tests.yml/badge.svg)](https://github.com/abrandec/femplate/actions/workflows/tests.yml) [![lints](https://github.com/abrandec/femplate/actions/workflows/lints.yml/badge.svg)](https://github.com/abrandec/femplate/actions/workflows/lints.yml) ![GitHub](https://img.shields.io/github/license/abrandec/femplate)  ![GitHub package.json version](https://img.shields.io/github/package-json/v/abrandec/femplate)
 
-
 ## Getting Started
 ```sh
 forge install
