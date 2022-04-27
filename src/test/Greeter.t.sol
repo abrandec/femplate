@@ -10,6 +10,9 @@ import {Vm} from "forge-std/Vm.sol";
 
 contract GreeterTest is Test {
     using stdStorage for StdStorage;
+    XConsole console = new XConsole();
+
+    StdStorage public stdStore;
 
     Greeter greeter;
     ErrorsTest test;

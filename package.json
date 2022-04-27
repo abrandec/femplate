@@ -9,7 +9,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/abrandecarlo/femplate.git"
+        "url": "git+https://github.com/abrandec/femplate.git"
     },
     "devDependencies": {
         "prettier": "^2.3.1",
